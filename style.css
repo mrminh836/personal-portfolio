@@ -5,9 +5,9 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f8fafc;
-    color: #1e293b;
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #ff00ff; /* ERROR: Neon pink background */
+    color: #ffff00; /* ERROR: Yellow text unreadable */
     padding: 32px 16px;
     line-height: 1.6;
 }
